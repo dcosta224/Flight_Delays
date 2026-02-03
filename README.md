@@ -2,7 +2,7 @@
 
 **UC Berkeley MIDS W261 Final Project**
 
-Predicting flight delays using machine learning on 5 years of US domestic flight data (2015-2019).
+Predicting flight delays using Spark and machine learning on 5 years (30M+ records) of US domestic flight data.
 
 ---
 
